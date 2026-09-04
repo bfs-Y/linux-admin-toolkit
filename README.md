@@ -63,7 +63,6 @@ Dual-implementation (most tools):
     |   +-- break/ fix/ harden/
     |   +-- test-log.md
     |   +-- postmortem.md
-    +-- anki/deck.md
 
 Single-language tools use the same shape minus the other language's folder,
 with the README stating explicitly why.
